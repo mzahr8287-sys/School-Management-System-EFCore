@@ -45,7 +45,7 @@ Instead of relying solely on Data Annotations, **Fluent API** was fully utilized
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   [git clone https://github.com](https://github.com/mzahr8287-sys/School-Management-System-EFCore.git)
    ```
 2. Update the connection string in `First14DbContext.cs` to match your local SQL Server instance:
    ```csharp
